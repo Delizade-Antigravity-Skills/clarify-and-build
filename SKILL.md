@@ -1,5 +1,5 @@
 ---
-name: ask-then-build
+name: clarify-and-build
 description: Clarify and scope features, refactors, or architectural decisions through autonomous codebase fact-finding, sequential one-at-a-time A-D questions with recommendations, and concise build prompt generation. Use when proposing a new feature, planning changes, or whenever the user asks to clarify before building.
 ---
 
@@ -7,7 +7,8 @@ description: Clarify and scope features, refactors, or architectural decisions t
 ================================================================================
 SKILL SYNTHESIS & DERIVATION METADATA
 ================================================================================
-This skill is a unified synthesis and architectural evolution of two foundational skills:
+This skill (`clarify-and-build`) is a unified synthesis and architectural evolution
+of two foundational skills:
 
 1. `grilling` (Antigravity Core / Gemini):
    - Autonomous Fact-Finding: AI autonomously inspects the codebase/environment rather than burdening the user with factual questions.
