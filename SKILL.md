@@ -1,6 +1,6 @@
 ---
 name: clarify-and-build
-description: Clarify and scope features, refactors, or architectural decisions through autonomous codebase fact-finding, sequential one-at-a-time A-D questions with recommendations, and concise build prompt generation. Use when proposing a new feature, planning changes, or whenever the user asks to clarify before building.
+description: Scope and clarify features, refactors, or architectural changes before implementation. Trigger when proposing a new feature, planning non-trivial changes, or when the user asks to "clarify", "plan first", "align", or "ask questions before coding".
 ---
 
 <!--
